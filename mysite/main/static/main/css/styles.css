@@ -1,0 +1,23 @@
+section.top {
+    width: 100%;
+    height: 300px;
+}
+div.icons {
+    margin-top: 160px;
+    text-align: right;
+}
+div.icons ul {
+    display: inline-block;
+}
+div.icons ul li {
+    list-style-type: none;
+}
+img.main-image {
+    max-width: 100%;
+}
+
+.footer {
+    background-color: #14285a;
+    color: #fff;
+    height: 200px;
+}
